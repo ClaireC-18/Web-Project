@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
+
 body {
     background: #000;
     color: #fff;
     font-family: sans-serif;
+    margin: 0 8;
   }
 
 header div{
@@ -25,7 +27,7 @@ header div{
   }
 
   .nav{
-    overflow: auto;
+  overflow: auto;
   position: sticky;
   display: block;
   color: black;
